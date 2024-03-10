@@ -1,5 +1,5 @@
 # **Haiii, Haii...**
-Ini program sederhana buat **ngerubah txt jadi csv**, aku namakan ***Master RSG***.
+Ini program sederhana buat **ngerubah file output Origen yang semula txt jadi csv**, aku namakan ***Master RSG***.
 
 Program ini di buat untuk mengisi kegabutan seorang dhiyasalmas, masih jauh dari kata sempurna karena ini versi pertama.
 
